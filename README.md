@@ -1,11 +1,9 @@
-# 👋 Hey there, I’m @SchubideiCroissant
+# @SchubideiCroissant
 
-- 🔧 **Interests:** Electronics, mechanical engineering, hardware, and game programming.
-- 📚 **Currently Learning:** C++ and exploring Python, Java, and SQL.
-- 🛠️ **Looking to Collaborate On:** Projects involving electronics, mechanical design, CAD software, and sensor integration for machines.
-- 🌐 **How to Reach Me:** [Discord: .schlachsahne](https://discord.com/users/.schlachsahne)
-- 🌍 **Languages:** German, English, and a bit of Japanese.
-- 🎸 **Fun Fact:** I play guitar, love swimming, and am a big fan of anime!
+-  **Interests:** Electronics, mechanical engineering, hardware, backend and game programming.
+-  **Currently Learning:** C++, C#, Java, Python
+-  **How to Reach Me:** [Discord: .schlachsahne](https://discord.com/users/.schlachsahne)
+-  **Languages:** Ger, En, some Jp and Ru
 
 
 
